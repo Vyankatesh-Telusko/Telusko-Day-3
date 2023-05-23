@@ -14,3 +14,5 @@ Assignment:
 Search the DataBase by Name: "Logi Mouse"
 ![image](https://github.com/Vyankatesh-Telusko/Telusko-Day-3/assets/134121798/b1a71563-5522-4b8c-8584-c9ba4ae401ef)
 
+## Part B: Use SpringBoot and DataJPA
+
