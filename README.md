@@ -16,3 +16,4 @@ Search the DataBase by Name: "Logi Mouse"
 
 ## Part B: Use SpringBoot and DataJPA
 
+![image](https://github.com/Vyankatesh-Telusko/Telusko-Day-3/assets/134121798/69d40e66-7e3d-41c0-90bb-04ab3d5f5469)
